@@ -1,3 +1,3 @@
 # gordonlevitan.github.io
 
-Hello Test test test 
+welcome to my AI generated website!
