@@ -1,0 +1,9 @@
+title: "Daniel Gordon-Levitan"
+description: "Chemistry research and a little retro futurism"
+url: "https://gordonlevitan.github.io"
+baseurl: "" # For project repos use /REPOSITORY-NAME
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
