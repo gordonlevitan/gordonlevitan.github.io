@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+<header class="hero">
+  <svg class="cv" id="cv" viewBox="0 0 1000 400" preserveAspectRatio="none" aria-hidden="true"></svg>
+  <div class="wrap hero-grid">
+    <div class="intro">
+      <span class="label">{{ page.field }}</span>
+      <h1>{{ page.first_name }} <span>{{ page.last_name }}</span></h1>
+      <p class="role">{{ page.role }}</p>
+      <ul class="tags" aria-label="Research interests">
+        {% for tag in page.interests %}<li>{{ tag }}</li>{% endfor %}
+      </ul>
+      <nav class="links" aria-label="Profiles">
+        {% for link in page.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }} ↗</a>{% endfor %}
+      </nav>
+    </div>
+    <img class="portrait" src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Portrait of {{ site.author }}" width="320" height="400" onerror="this.hidden = true">
+  </div>
+</header>
+
+<main class="wrap content">
+{{ content }}
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>{{ site.author }}</span>
+    <span>Weizmann Institute of Science · Rehovot, Israel</span>
+  </div>
+</footer>
+
+<script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>

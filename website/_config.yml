@@ -1,0 +1,15 @@
+title: Daniel Gordon-Levitan
+description: PhD student in synthetic organic electrochemistry at the Weizmann Institute of Science.
+author: Daniel Gordon-Levitan
+
+# If the repository is named <username>.github.io, leave baseurl empty.
+# If it has any other name (e.g. "website"), set baseurl to "/website".
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
