@@ -4,7 +4,7 @@ title: Daniel Gordon-Levitan
 field: Synthetic organic electrochemistry
 first_name: Daniel
 last_name: Gordon-Levitan
-role: PhD student, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science. Member of the Gnaim group.
+role: PhD student, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science. Member of the Gnaim and Rybtchinski groups.
 interests:
   - Electro-organic synthesis
   - Electrode–electrolyte interfaces
@@ -19,11 +19,13 @@ links:
     url: https://scholar.google.com/scholar?q=%22Gordon-Levitan%22
   - name: Gnaim group
     url: https://www.weizmann.ac.il/MCMS/gnaim/
+  - name: Rybtchinski lab
+    url: https://www.weizmann.ac.il/Organic_Chemistry/Rybtchinski/
 ---
 
 ## Research
 
-I am a PhD student in the [Gnaim group](https://www.weizmann.ac.il/MCMS/gnaim/) at the Weizmann Institute of Science. I use electricity in place of chemical reductants and oxidants to build organic molecules, and I study how the electrode–electrolyte interface decides which product forms.
+I am a PhD student at the Weizmann Institute of Science, working with the [Gnaim group](https://www.weizmann.ac.il/MCMS/gnaim/) and the [Rybtchinski lab](https://www.weizmann.ac.il/Organic_Chemistry/Rybtchinski/). I use electricity in place of chemical reductants and oxidants to build organic molecules, and I study how the electrode–electrolyte interface decides which product forms.
 
 ### The electrolyte as a selectivity switch
 
@@ -56,7 +58,7 @@ In electro-reductive olefin coupling, the supporting electrolyte is usually chos
 
 | Years | Degree | Institution |
 |---|---|---|
-| 2024 – present | Ph.D. | Weizmann Institute of Science, Gnaim group |
+| 2024 – present | Ph.D. | Weizmann Institute of Science, Gnaim and Rybtchinski groups |
 | 2022 – 2024 | M.Sc. Chemistry | Weizmann Institute of Science |
 | 2019 – 2022 | B.Sc. Chemistry | Hebrew University of Jerusalem (undergraduate research with the Hurevich and Yitzchaik groups on electrochemical biosensing) |
 
@@ -70,3 +72,7 @@ For the rest of my PhD I plan to build on the electrolyte-controlled selectivity
 - Automate the processing of my lab data: cyclic voltammograms, GC and NMR yields, and screening tables of reaction conditions.
 - Make reproducible plots and reports for papers and group meetings.
 - Use Git and GitHub properly for my own code and for sharing it with the group.
+
+## Outside the lab
+
+I did my undergraduate degree in Jerusalem before moving to the Weizmann Institute in Rehovot. I'm always happy to talk about chemistry, electrochemistry or Python; the easiest way to reach me is through [LinkedIn](https://il.linkedin.com/in/daniel-gordon-levitan-651853148).
