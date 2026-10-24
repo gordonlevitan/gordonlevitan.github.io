@@ -59,7 +59,7 @@ In electro-reductive olefin coupling, the supporting electrolyte is usually chos
 | Years | Degree | Institution |
 |---|---|---|
 | 2024 – present | Ph.D. | Weizmann Institute of Science, Gnaim and Rybtchinski groups |
-| 2022 – 2024 | M.Sc. Chemistry | Weizmann Institute of Science |
+| 2022 – 2024 | M.Sc. Chemistry | Weizmann Institute of Science, Gnaim and Rybtchinski groups |
 | 2019 – 2022 | B.Sc. Chemistry | Hebrew University of Jerusalem (undergraduate research with the Hurevich and Yitzchaik groups on electrochemical biosensing) |
 
 ## Plans
@@ -75,4 +75,4 @@ For the rest of my PhD I plan to build on the electrolyte-controlled selectivity
 
 ## Outside the lab
 
-I did my undergraduate degree in Jerusalem before moving to the Weizmann Institute in Rehovot. I'm always happy to talk about chemistry, electrochemistry or Python; the easiest way to reach me is through [LinkedIn](https://il.linkedin.com/in/daniel-gordon-levitan-651853148).
+I read classic literature, history and geography, and I love traveling around the world. I'm always happy to talk about chemistry, electrochemistry or Python; the easiest way to reach me is through [LinkedIn](https://il.linkedin.com/in/daniel-gordon-levitan-651853148).
