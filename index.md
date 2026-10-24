@@ -62,15 +62,11 @@ In electro-reductive olefin coupling, the supporting electrolyte is usually chos
 
 ## Plans
 
-<!-- TODO (Daniel): replace with your own plans, e.g. what you want to work on in the rest of your PhD and after. -->
-_To be written._
+For the rest of my PhD I plan to build on the electrolyte-controlled selectivity work: extend it to new olefin functionalizations, and understand at a mechanistic level how the electrode–electrolyte interface steers radical intermediates. In the longer term I want to keep working where synthesis, electrochemistry and mechanism meet.
 
 ## Goals for this course
 
-<!-- TODO (Daniel): write your goals for the WIS Python course in your own words. -->
-_To be written._
-
-## Outside the lab
-
-<!-- TODO (Daniel): optional. Anything personal you don't mind being public, e.g. hobbies. Delete this section if you prefer. -->
-_To be written._
+- Write clean, readable Python, with tests, instead of one-off scripts.
+- Automate the processing of my lab data: cyclic voltammograms, GC and NMR yields, and screening tables of reaction conditions.
+- Make reproducible plots and reports for papers and group meetings.
+- Use Git and GitHub properly for my own code and for sharing it with the group.
