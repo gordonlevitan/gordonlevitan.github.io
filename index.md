@@ -16,7 +16,7 @@ links:
   - name: LinkedIn
     url: https://il.linkedin.com/in/daniel-gordon-levitan-651853148
   - name: Google Scholar
-    url: https://scholar.google.com/scholar?q=%22Gordon-Levitan%22
+    url: https://scholar.google.com/citations?user=Q_swQNcAAAAJ
   - name: Gnaim group
     url: https://www.weizmann.ac.il/MCMS/gnaim/
   - name: Rybtchinski lab
