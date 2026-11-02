@@ -76,3 +76,7 @@ For the rest of my PhD I plan to build on the electrolyte-controlled selectivity
 ## Outside the lab
 
 I read classic literature, history and geography, and I love traveling around the world. I'm always happy to talk about chemistry, electrochemistry or Python; the easiest way to reach me is through [LinkedIn](https://il.linkedin.com/in/daniel-gordon-levitan-651853148).
+
+### A small coding project
+
+[Sacha Baron Cohen Quote Generator]({{ '/quote_button.html' | relative_url }}) — click the button for a family-friendly quote from Borat, Ali G or King Julien. Each click switches characters.
